@@ -2,7 +2,7 @@
 grade_batch.py
 
 # Ignore course roster grades
-class_roster/
+class_rosters/
 
 # Ignore Python environment folders
 venv/
