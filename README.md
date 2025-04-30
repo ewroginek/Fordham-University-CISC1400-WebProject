@@ -91,9 +91,9 @@ You’ll get:
 
 | File | What it does |
 |------|--------------|
-| `grade_single.py` | Run this to check your website |
-| `grading_utils.py` | The brains behind the checker |
-| `requirements.txt` | List of tools this project needs |
+| `evaluate.py` | Run this to check your website |
+| `grading_utils.py` | The logic behind the checker |
+| `requirements.txt` | List of python libraries this project needs |
 | `README.md` | This help file |
 
 ---
