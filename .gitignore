@@ -1,0 +1,9 @@
+# Ignore the batch grading script (not needed for students)
+grade_batch.py
+
+# Ignore course roster grades
+class_roster/
+
+# Ignore Python environment folders
+venv/
+__pycache__/
