@@ -28,7 +28,7 @@ Before using this tool, make sure you have:
 
 ## One-Time Setup
 
-Open your terminal (or command prompt), navigate to your newly downloaded "CISC1400_Project" folder using the "cd" command, and run these commands:
+Open your terminal (or command prompt), navigate to your newly downloaded "Fordham-University-CISC1400-WebProject" folder using the "cd" command, and run these commands:
 
 ```bash
 python -m venv venv
