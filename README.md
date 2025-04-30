@@ -62,9 +62,11 @@ You’ll get:
 
 - A checklist of what’s included and what’s missing
 - Your total grade (out of 100)
-- See the example output below!
+- An example output below for your website!
 
 ```
+🎓 Grading results for: https://storm.cis.fordham.edu/~your-username/
+--------------------------------------------------
 ✅ Website Hosted on the Storm Server: 60 pts
 ✅ Line Count: 136 lines
          ✅ Line Count >= 50: 10 pts
