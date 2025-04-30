@@ -1,5 +1,7 @@
 # 🌐 CISC 1400 Personal Website Quality Checker
 
+![Fordham University](/utils/Logo_Fordham_University_Tagline.png)
+
 This tool is designed to help **Fordham University CISC 1400 students** check the quality of their personal website projects.
 
 You can run it on your own website to find out:

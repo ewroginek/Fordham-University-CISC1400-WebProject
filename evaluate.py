@@ -1,6 +1,6 @@
 import sys
 import requests
-from grading_utils import grade_website, TAG_COLUMN_NAMES
+from utils.grading_utils import grade_website, TAG_COLUMN_NAMES
 
 def print_checklist(tag_scores):
     for tag, label in TAG_COLUMN_NAMES.items():
