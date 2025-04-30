@@ -55,7 +55,7 @@ pip install -r requirements.txt
 Once setup is done, just run this command with your website URL (replacing "your-username" with your username):
 
 ```bash
-python grade_single.py https://storm.cis.fordham.edu/~your-username/
+python evaluate.py https://storm.cis.fordham.edu/~your-username/
 ```
 
 You’ll get:
