@@ -62,7 +62,26 @@ You’ll get:
 
 - A checklist of what’s included and what’s missing
 - Your total grade (out of 100)
-- Friendly check marks (✔️) and red Xs (❌) to show what’s done
+- See the example output below!
+
+```
+✅ Website Hosted on the Storm Server: 60 pts
+✅ Line Count: 136 lines
+         ✅ Line Count >= 50: 10 pts
+         ✅ Line Count > 100: 10 pts
+✅ CSS Used: 10 pts
+✅ Tag Points: 10 pts
+         ✔️  Used Title Tag
+         ✔️  Used Header Tag
+         ✔️  Used Paragraph Tag
+         ✔️  Used Section Tag
+         ✔️  Used Footer Tag
+         ✔️  Used Hyperlink Tag
+         ✔️  Used Image Tag
+         ✔️  Used Unordered list Tag
+         ✔️  Used Ordered list Tag
+         ✔️  Used Working-urls Tag
+```
 
 ---
 

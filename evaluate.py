@@ -1,4 +1,6 @@
+import os
 import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "utils")))
 import requests
 from utils.grading_utils import grade_website, TAG_COLUMN_NAMES
 
@@ -28,7 +30,7 @@ def grade_url(url):
         css = "✅" if scores['CSS Used'] == 10 else "❌"
         tags = "✅" if tag_score >= 10 else "❌"
 
-        print(f"{reachable} Reachable: {scores['Reachable']} pts")
+        print(f"{reachable} Website Hosted on the Storm Server: {scores['Reachable']} pts")
         print(f"{linecount} Line Count: {scores['Line Count']} lines")
         print(f"\t {line_50} Line Count >= 50: {scores['Line Count >= 50']} pts")
         print(f"\t {line_100} Line Count > 100: {scores['Line Count > 100']} pts")
