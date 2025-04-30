@@ -1,4 +1,4 @@
-<img src="/utils/Logo_Fordham_University_Tagline.png" alt="Fordham University" width="400">
+<img src="/utils/Logo_Fordham_University_Tagline.png" alt="Fordham University" width="700">
 
 # 🌐 CISC 1400 Personal Website Quality Checker
 
