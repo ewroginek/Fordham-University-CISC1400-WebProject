@@ -1,5 +1,3 @@
-# grade_single.py
-
 import sys
 import requests
 from grading_utils import grade_website, TAG_COLUMN_NAMES
